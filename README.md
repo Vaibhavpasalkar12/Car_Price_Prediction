@@ -1,13 +1,6 @@
 # Car Price Predictor
 
-Project link: https://car-price-price.herokuapp.com
-Demo Video: https://youtu.be/HEaFU68WAPM
-
-<img src="https://github.com/Vaibhavpasalkar12/Car_Price_Prediction/edit/main/Demo.png">
-
-
-
-# Aim
+## Aim
 
 This project aims to predict the Price of an used Car by taking it's Company name, it's Model name, Year of Purchase, and other parameters.
 
@@ -33,9 +26,11 @@ And you are good to go.
 
 2. The data was cleaned (it was super unclean :( ) and analysed.
 
-3. Then a Linear Regression model was built on top of it which had 0.89 R2_score.
+<img src="https://github.com/Vaibhavpasalkar12/Car_Price_Prediction/blob/main/Demo.png">
 
-Link for notebook: https://github.com/Vaibhavpasalkar12/Car_Price_Prediction/edit/main/Quikr%20Analysis.ipynb
+4. Then a Linear Regression model was built on top of it which had 0.89 R2_score.
 
-4. This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
+
+
+5. This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
 
