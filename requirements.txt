@@ -1,2 +1,2 @@
-python is must with latest version
+python
 flask 
